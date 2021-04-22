@@ -3,4 +3,4 @@
 Source code run at localhost
 You can change at (mongoose.connect) line:22 to connect database online
 
-# Demo: https://myblogv1.herokuapp.com/
+# Demo: https://myblogv1.herokuapp.com/  https://myblogv1.herokuapp.com/
